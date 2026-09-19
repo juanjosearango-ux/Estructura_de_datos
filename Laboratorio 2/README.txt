@@ -18,4 +18,4 @@ Para visualizar la estructura del árbol por niveles:
 python diagrama.py
 
 # Declaración de Asistencia de IA
-En cumplimiento del Código de Honor y las políticas de integridad académica de la asignatura, declaro el uso de herramientas de Inteligencia Artificial únicamente como apoyo en la redacción de la documentación en formato Markdown y en la organización del formato visual de las salidas en consola. La lógica del algoritmo, las funciones del árbol y los experimentos presentados fueron implementados por mi.
+En cumplimiento de las políticas de integridad académica, declaro el uso de la extensión GitHub Copilot en Visual Studio Code como herramienta de soporte en el entorno de desarrollo, utilizada exclusivamente para el autocompletado de sintaxis básica y el formato visual de las salidas en consola de los archivos merkle.py y diagrama.py. La arquitectura del Árbol de Merkle, la lógica de las pruebas de inclusión y la ejecución de los experimentos fueron desarrolladas por mí.
