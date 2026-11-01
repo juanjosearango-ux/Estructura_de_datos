@@ -1,6 +1,6 @@
 # Laboratorio 4: Quadtree vs Fuerza Bruta
 
-Implementación en Python desde cero de una estructura de datos espacial (Quadtree) para la gestión eficiente de puntos de entrega en 2D, comparando su rendimiento frente a la búsqueda por fuerza bruta.
+Implementación en Python de una estructura de datos espacial (Quadtree) para la gestión eficiente de puntos de entrega en 2D, comparando su rendimiento frente a la búsqueda por fuerza bruta.
 
 ## Estructura del Repositorio
 - `Quadtreetree.py`: Implementación de las clases `Rectangle` y `Quadtree` (inserción, búsqueda por rango y vecino más cercano).
